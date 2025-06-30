@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Danelle Kruger
-### 🌱 Software Developer | Angular • Python • FastAPI
+### 🌱 An future Software Developer currently in my final year | Angular • Python • C# • C++ • SQL • JavaScript • Java
 
 - 🚀 Currently working on: [PDF Protector Web App](https://github.com/your-repo)
-- 🧠 Learning: Clean Architecture, Microservices
-- 🛠️ Tools: Angular • TypeScript • FastAPI • Git • Docker
-- 💬 Ask me about: Full-stack development, Git workflows, REST APIs
+- 🧠 Learning: Angular, Syncfusion, UI Designs, Git, Github 
+- 🛠️ Tools: Angular • TypeScript • VS Code • Git
+- 📚 Libraries/Frameworks: Syncfusion • Node.js • ASP.NET • jQuery
+- 💬 Ask me about: Full-stack development, Git workflows, Web App Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile)
 
 ![Danelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danellekruger&show_icons=true&theme=dracula)
