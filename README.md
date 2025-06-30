@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Danelle Kruger
-### 🌱 An future Software Developer currently in my final year | Angular • Python • C# • C++ • SQL • JavaScript • Java
+### 🌱 A Software Developer student | Angular • Python • C# • C++ • SQL • JavaScript • Java
 
 - 🚀 Currently working on: [PDF Protector Web App](https://github.com/your-repo)
 - 🧠 Learning: Angular, Syncfusion, UI Designs, Git, Github 
