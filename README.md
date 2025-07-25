@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Full-stack development, Git workflows, Web App Development**
 
-- 📫 How to reach me **kruger.danelle2829@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/danelle-kruger/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,5 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danellekruger&show_icons=true&locale=en" alt="danellekruger" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danellekruger&" alt="danellekruger" /></p>
-
-![Danelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danellekruger&show_icons=true&theme=dracula)
