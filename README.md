@@ -3,10 +3,11 @@
 # 👋 Hello, I'm Danelle Kruger!
 
 ## 🚀 About Me 
-🌟 **BSc IT Student** and an aspiring **Software Developer** 
-💡 Passionate about creating innovative systems, especially web applications 
-🚀 Always exploring new technologies and frameworks to broaden my understanding of Information Systems
-✨ Turning ideas into reality, one line of code at a time
+  🌟 **BSc IT Student** and an aspiring **Software Developer** 
+  💡 Passionate about creating innovative systems, especially web applications 
+  🚀 Always exploring new technologies and frameworks to broaden my understanding of Information Systems
+  ✨ Turning ideas into reality, one line of code at a time
+  
 </div>
 
 <div align="center">
