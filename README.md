@@ -12,44 +12,75 @@
 
 ## 🚀 About Me
 
-```javascript
-const developer = {
-    name: "Danelle Kruger",
-    location: "South Africa",
-    role: "Full Stack Developer",
-    languages: ["Javascript", "Python", "TypeScript", "C#", "HTML", "CSS", "TypeScript", "SQL"],
-    frameworks: ["Syncfusion", "Node.js", "Express", "Angular"],
-    databases: ["Microsoft SQL Server", "Oracle", "MySQL"],
-    currentFocus: "Building scalable web applications"
-};
-```
+<div align="center">
+
+🌟 **Full Stack Developer** from **South Africa** 🇿🇦  
+💡 Passionate about creating innovative web solutions  
+🚀 Always exploring new technologies and frameworks  
+✨ Turning ideas into reality, one line of code at a time
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="200px">
+<img src="https://github.com/fluidicon.png" width="80px" alt="Developer">
+<br><strong>👩‍💻 Role</strong>
+<br>Full Stack Developer
+</td>
+<td align="center" width="200px">
+<img src="https://flagcdn.com/w80/za.png" width="80px" alt="South Africa">
+<br><strong>📍 Location</strong>
+<br>South Africa
+</td>
+<td align="center" width="200px">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80px" alt="Focus">
+<br><strong>🎯 Focus</strong>
+<br>Scalable Web Apps
+</td>
+</tr>
+</table>
 
 <div align="center">
   
 ### 🛠️ Tech Stack & Tools
 
+**Languages:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frameworks & Libraries:**
+![Syncfusion](https://img.shields.io/badge/-Syncfusion-FF6600?style=for-the-badge&logo=syncfusion&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+**Databases:**
+![Microsoft SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools:**
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanelleKruger&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanelleKruger&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanelleKruger&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
