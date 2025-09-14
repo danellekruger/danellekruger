@@ -2,17 +2,24 @@
   
 # 👋 Hello, I'm Danelle Kruger!
 
+🎓 Software Developer Student | 💻 Future Full-Stack Developer | 📊 Passionate about Data Analytics & AI 
+
+---
+
 ## 🚀 About Me 
-  🌟 **BSc IT Student** and an aspiring **Software Developer** 
-  💡 Passionate about creating innovative systems, especially web applications 
-  🚀 Always exploring new technologies and frameworks to broaden my understanding of Information Systems
-  ✨ Turning ideas into reality, one line of code at a time
+  🌟 Currently studying **Software Development** at university
+  💡 Interests: **Web Development, Databases, AI, Business Analytics, and Data Analytics**
+  🔨 I enjoy building **management systems** (stock-taking, hospital ER, task managers, etc.)
+  🚀 I am passionate about creating innovative systems, especially web applications an I am always exploring new technologies and frameworks to broaden my understanding of Information Systems
+  🎯 Goal: To apply my skills in **real-world projects** and grow into a professional developer
   
 </div>
 
+---
+
 <div align="center">
   
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 **Languages:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -23,27 +30,33 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frameworks & Libraries:**
+**Frameworks & Tools:**
 ![Syncfusion](https://img.shields.io/badge/-Syncfusion-FF6600?style=for-the-badge&logo=syncfusion&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-**Databases:**
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-## 📊 GitHub Analytics
+---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanelleKruger&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+## 📂 Featured Projects  
+Here are some of my best projects (check out my pinned repos 👇):  
+
+- 🧾 **Personal Portfolio Website** - virtual cv web application using HTML and CSS, and incorporating it with Github pages (Web stack)
+- 🏥 **ER Management System** – Hospital emergency room patient tracking (SQL + C#)  
+- ✅ **To-Do App with Categories** – Personal task manager (Web stack)  
+- 🍝 **Luigi’s Cuisine** – Restaurant ordering system (C# + WinForms + SQL)  
+
+---
+
+## 📊 GitHub Stats  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danellekruger&layout=compact&theme=radical)  
+
+---
 
 ## 🔮 What I'm Currently Working On
 
@@ -52,21 +65,14 @@
     <td valign="top" width="50%">
       
 ### 🎯 Current Projects
-- 🌟 **Personal Portfolio Website** - virtual cv web application using HTML and CSS, and incorporating it with Github pages
+- 💸 **MoneyMaster Web App** - A web application using Angular that help individuals to track their daily expenses, create budgets, and generate reports
 - 🚀 **PDF Protector Web App** - A web application using Angular and Syncfusion that encrypts pdf files and makes them password protected
-      
-    </td>
-    <td valign="top" width="50%">
-      
-### 📚 Learning Journey
-- 🧠 Advanced TypeScript patterns
-- ☁️ API integration to my current coding projects
-- 🔒 Cybersecurity fundamentals
-- 📊 Data structures & algorithms
       
     </td>
   </tr>
 </table>
+
+---
 
 ## 🌐 Connect With Me
 
