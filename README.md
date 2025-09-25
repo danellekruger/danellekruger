@@ -2,7 +2,7 @@
   
 # 👋 Hello, I'm Danelle Kruger!
 
-🎓 Software Developer Student | 💻 Future Full-Stack Developer | 📊 Passionate about Data Analytics & AI 
+🎓 Transforming business challenges into smart software solutions through full-stack development and data-driven insights. 
 
 ---
 
@@ -10,7 +10,7 @@
   🌟 Currently studying **Software Development** at university
   💡 Interests: **Web Development, Databases, AI, Business Analytics, and Data Analytics**
   🔨 I enjoy building **management systems** (stock-taking, hospital ER, task managers, etc.)
-  🚀 I am passionate about creating innovative systems, especially web applications an I am always exploring new technologies and frameworks to broaden my understanding of Information Systems
+  🚀 I’m passionate about creating innovative systems — especially web applications — and I constantly explore new technologies and frameworks to expand my understanding of Information Systems.
   🎯 Goal: To apply my skills in **real-world projects** and grow into a professional developer
   
 </div>
@@ -55,6 +55,7 @@ Here are some of my best projects (check out my pinned repos 👇):
 
 ## 📊 GitHub Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danellekruger&layout=compact&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danellekruger&show_icons=true&theme=radical)  
 
 ---
 
@@ -67,6 +68,7 @@ Here are some of my best projects (check out my pinned repos 👇):
 ### 🎯 Current Projects
 - 💸 **MoneyMaster Web App** - A web application using Angular that help individuals to track their daily expenses, create budgets, and generate reports
 - 🚀 **PDF Protector Web App** - A web application using Angular and Syncfusion that encrypts pdf files and makes them password protected
+
       
     </td>
   </tr>
