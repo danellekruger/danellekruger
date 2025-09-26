@@ -38,6 +38,8 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -48,8 +50,8 @@ Here are some of my best projects (check out my pinned repos 👇):
 
 - 🧾 **Personal Portfolio Website** - virtual cv web application using HTML and CSS, and incorporating it with Github pages (Web stack)
 - 🏥 **ER Management System** – Hospital emergency room patient tracking (SQL + C#)  
-- ✅ **To-Do App with Categories** – Personal task manager (Web stack)  
-- 🍝 **Luigi’s Cuisine** – Restaurant ordering system (C# + WinForms + SQL)  
+- ✅ **PDF Protector Web App** - A web application using Angular and Syncfusion that encrypts pdf files and makes them password protected
+- 🚀 **Star Wars API wrapper** - A simple API wrapper for the Star Wars API (SWAPI).
 
 ---
 
@@ -67,7 +69,7 @@ Here are some of my best projects (check out my pinned repos 👇):
       
 ### 🎯 Current Projects
 - 💸 **MoneyMaster Web App** - A web application using Angular that help individuals to track their daily expenses, create budgets, and generate reports
-- 🚀 **PDF Protector Web App** - A web application using Angular and Syncfusion that encrypts pdf files and makes them password protected
+- 🚀 **Star Wars API wrapper** - A simple API wrapper for the Star Wars API (SWAPI).
 
       
     </td>
