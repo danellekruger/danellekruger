@@ -9,7 +9,7 @@
 ## 🚀 About Me 
   🌟 Currently studying **Software Development** at university
   💡 Interests: **Web Development, Databases, AI, Business Analytics, and Data Analytics**
-  🔨 I enjoy building **management systems** (stock-taking, hospital ER, task managers, etc.)
+  🔨 I enjoy building **management systems** 
   🚀 I’m passionate about creating innovative systems — especially web applications — and I constantly explore new technologies and frameworks to expand my understanding of Information Systems.
   🎯 Goal: To apply my skills in **real-world projects** and grow into a professional developer
   
